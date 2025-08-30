@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1744294557 source:c:\users\brylle cortes\desktop\coding projects\splaytree-final\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<ctype.h>
+	"SplayTree.h"
+	"addNode.c"
+	"createNode.c"
+	"bstInsert.c"
+	"displayTree.c"
+	"printNode.c"
+	"drawConnections.c"
+	"animateTree.c"
+	"rotateLeft.c"
+	"rotateRight.c"
+	"freeTree.c"
+
+1744292831 c:\users\brylle cortes\desktop\coding projects\splaytree-final\splaytree.h
+
+1744291825 c:\users\brylle cortes\desktop\coding projects\splaytree-final\addnode.c
+
+1744291920 c:\users\brylle cortes\desktop\coding projects\splaytree-final\createnode.c
+
+1744291974 c:\users\brylle cortes\desktop\coding projects\splaytree-final\bstinsert.c
+
+1744294334 c:\users\brylle cortes\desktop\coding projects\splaytree-final\displaytree.c
+
+1744292277 c:\users\brylle cortes\desktop\coding projects\splaytree-final\printnode.c
+
+1744292277 c:\users\brylle cortes\desktop\coding projects\splaytree-final\drawconnections.c
+
+1744292277 c:\users\brylle cortes\desktop\coding projects\splaytree-final\animatetree.c
+
+1744292277 c:\users\brylle cortes\desktop\coding projects\splaytree-final\rotateleft.c
+
+1744292277 c:\users\brylle cortes\desktop\coding projects\splaytree-final\rotateright.c
+
+1744292277 c:\users\brylle cortes\desktop\coding projects\splaytree-final\freetree.c
+

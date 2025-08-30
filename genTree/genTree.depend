@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1741912022 source:z:\codes\gentree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"genTree.h"
+	"createNode.c"
+	"buildTree.c"
+	"freeTree.c"
+	"printTree.c"
+	"trim.c"
+
+1741912022 z:\codes\gentree\gentree.h
+
+1741911678 z:\codes\gentree\createnode.c
+
+1741911678 z:\codes\gentree\buildtree.c
+
+1741911678 z:\codes\gentree\freetree.c
+
+1741913119 z:\codes\gentree\printtree.c
+
+1741912094 z:\codes\gentree\trim.c
+
+1742473714 source:c:\users\brylle cortes\desktop\coding projects\gentree\gentree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"genTree.h"
+	"printExtInt.c"
+	"printParent.c"
+	"printChild.c"
+	"printSiblings.c"
+	"freeTree.c"
+	"buildTree.c"
+	"createNode.c"
+
+1742473695 c:\users\brylle cortes\desktop\coding projects\gentree\gentree\gentree.h
+
+1742472238 c:\users\brylle cortes\desktop\coding projects\gentree\gentree\printextint.c
+
+1742473644 c:\users\brylle cortes\desktop\coding projects\gentree\gentree\printparent.c
+
+1742471404 c:\users\brylle cortes\desktop\coding projects\gentree\gentree\printsiblings.c
+
+1742470592 c:\users\brylle cortes\desktop\coding projects\gentree\gentree\printlevelorder.c
+
+1742468868 c:\users\brylle cortes\desktop\coding projects\gentree\gentree\trim.c
+
+1742469330 c:\users\brylle cortes\desktop\coding projects\gentree\gentree\freetree.c
+
+1742469330 c:\users\brylle cortes\desktop\coding projects\gentree\gentree\buildtree.c
+
+1742469330 c:\users\brylle cortes\desktop\coding projects\gentree\gentree\createnode.c
+
+1742473769 c:\users\brylle cortes\desktop\coding projects\gentree\gentree\printchild.c
+

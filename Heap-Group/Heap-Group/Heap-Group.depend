@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1744334200 source:z:\codes\heap-group\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"HeapTree.h"
+
+1744334189 z:\codes\heap-group\heaptree.h
+
+1745634408 source:c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1745493006 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\heaptree.h
+
+1745493006 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\gotoxy.c
+
+1745493006 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\createnode.c
+
+1745493006 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\insertlevelorder.c
+
+1745493006 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\printheaptree.c
+
+1745494713 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\printheaps.c
+
+1745494588 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\heapifyupmin.c
+
+1745494588 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\heapifyupmax.c
+
+1745493006 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\insert.c
+
+1745494587 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\heapifydownmin.c
+
+1745494588 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\heapifydownmax.c
+
+1745493006 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\getlastnode.c
+
+1745493006 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\deleteroot.c
+
+1745493006 c:\users\brylle cortes\desktop\coding projects\heap-group\heap-group\addnodes.c
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1740188034 source:c:\users\brylle cortes\desktop\coding projects\recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"recursion.h"
+	"powerSolver.c"
+	"iterPower.c"
+	"fibonacci.c"
+	"iterFibo.c"
+
+1740187258 c:\users\brylle cortes\desktop\coding projects\recursion\recursion.h
+
+1740184184 c:\users\brylle cortes\desktop\coding projects\recursion\powersolver.c
+
+1740185675 c:\users\brylle cortes\desktop\coding projects\recursion\iterpower.c
+
+1740187258 c:\users\brylle cortes\desktop\coding projects\recursion\fibonacci.c
+
+1740186766 c:\users\brylle cortes\desktop\coding projects\recursion\iterfibo.c
+

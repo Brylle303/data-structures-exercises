@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1740795610 source:z:\codes\b3-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+	"create_node.c"
+	"add_node.c"
+	"delete_node.c"
+	"search_node.c"
+	"breadth.c"
+	"display_tree.c"
+	"print_tree.c"
+	"print_spaces.c"
+	"tree_height.c"
+	"traverse_postorder.c"
+	"traverse_preorder.c"
+	"traverse_inorder.c"
+	"edit_node.c"
+
+1740795607 z:\codes\b3-final\tree.h
+
+1740795310 z:\codes\b3-final\create_node.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795286 z:\codes\b3-final\add_node.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795291 z:\codes\b3-final\delete_node.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795245 z:\codes\b3-final\search_node.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795200 z:\codes\b3-final\breadth.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740794900 z:\codes\b3-final\display_tree.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795286 source:z:\codes\b3-final\add_node.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795200 source:z:\codes\b3-final\breadth.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795310 source:z:\codes\b3-final\create_node.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795291 source:z:\codes\b3-final\delete_node.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740794900 source:z:\codes\b3-final\display_tree.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795245 source:z:\codes\b3-final\search_node.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740794951 z:\codes\b3-final\print_tree.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795052 z:\codes\b3-final\print_spaces.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795060 z:\codes\b3-final\tree_height.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795106 z:\codes\b3-final\traverse_postorder.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795144 z:\codes\b3-final\traverse_preorder.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795179 z:\codes\b3-final\traverse_inorder.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1740795231 z:\codes\b3-final\edit_node.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+

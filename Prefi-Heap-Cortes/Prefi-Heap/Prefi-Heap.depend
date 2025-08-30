@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1745542103 source:z:\codes\prefi-heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1746096577 source:c:\users\brylle cortes\desktop\coding projects\prefi-heap-cortes\prefi-heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"HeapPrefi.h"
+	"addNodes.c"
+	"createNode.c"
+	"heapifyUpMax.c"
+
+1746094922 c:\users\brylle cortes\desktop\coding projects\prefi-heap-cortes\prefi-heap\heapprefi.h
+
+1746094922 c:\users\brylle cortes\desktop\coding projects\prefi-heap-cortes\prefi-heap\addnodes.c
+
+1746094922 c:\users\brylle cortes\desktop\coding projects\prefi-heap-cortes\prefi-heap\createnode.c
+
+1746094922 c:\users\brylle cortes\desktop\coding projects\prefi-heap-cortes\prefi-heap\heapifyupmax.c
+

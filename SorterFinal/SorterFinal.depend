@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1740063841 source:c:\users\brylle cortes\desktop\coding projects\sorterfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	"sorter.h"
+	"free.c"
+	"insert.c"
+	"newNode.c"
+	"print.c"
+	"selection.c"
+	"insertion.c"
+	"exchange.c"
+
+1740062957 c:\users\brylle cortes\desktop\coding projects\sorterfinal\sorter.h
+
+1740063108 c:\users\brylle cortes\desktop\coding projects\sorterfinal\free.c
+
+1740063079 c:\users\brylle cortes\desktop\coding projects\sorterfinal\insert.c
+
+1740063061 c:\users\brylle cortes\desktop\coding projects\sorterfinal\newnode.c
+
+1740063094 c:\users\brylle cortes\desktop\coding projects\sorterfinal\print.c
+
+1740063164 c:\users\brylle cortes\desktop\coding projects\sorterfinal\selection.c
+
+1740063185 c:\users\brylle cortes\desktop\coding projects\sorterfinal\insertion.c
+
+1740063139 c:\users\brylle cortes\desktop\coding projects\sorterfinal\exchange.c
+
